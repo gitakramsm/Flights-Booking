@@ -1,0 +1,17 @@
+{
+  "name": "basic_nodejs_template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch ./src/index.js"
+  },
+  "author": "marco",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "http-status-codes": "^2.3.0",
+    "winston": "^3.19.0"
+  }
+}
